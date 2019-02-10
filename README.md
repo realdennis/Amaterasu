@@ -4,15 +4,17 @@
 
 ![Amaterasu!](https://i.imgur.com/E8ndEHj.jpg)
 
-Make DOM blur gradully, like user has Uchiha eyes.
+Make DOM blur gradually, like user has Uchiha eyes.
 
 ```javascript
-const [start,stop] = Amaterasu(DOM,/*level default 10*/,/*duration default 1 sec*/)
+const [start,stop] = Amaterasu(DOM,/*level default 10*/,/*duration default 1 (sec)*/)
+
+const [start,stop] = Amaterasu(document.body);
+start()
+/* Actually you can just code like this*/
 ```
 
-## Installation
-
-### CDN
+## CDN
 
 ```html
 <script src="https://unpkg.com/@realdennis/amaterasu@0.0.6/cdn/Amaterasu.js"></script>
@@ -22,7 +24,7 @@ const [start,stop] = Amaterasu(DOM,/*level default 10*/,/*duration default 1 sec
 </script>
 ```
 
-### npm module
+## NPM module
 
 ```sh
 
