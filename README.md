@@ -14,12 +14,8 @@ Amaterasu(dom, level, duration)
 ```html
 <script src="https://unpkg.com/@realdennis/amaterasu@0.0.6/cdn/Amaterasu.js"></script>
 <script>
- const [start,stop] = Amaterasu(document.body);
- start();
- //
- // Resume
- //
- stop();
+  const [start,stop] = Amaterasu(document.body);
+  start();
 </script>
 ```
 
