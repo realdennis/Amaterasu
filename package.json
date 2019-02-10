@@ -1,0 +1,21 @@
+{
+  "name": "@realdennis/amaterasu",
+  "version": "0.0.1",
+  "description": "Make DOM blur gradully like user has Uchiha eyes.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realdennis/Amaterasu.git"
+  },
+  "keywords": [
+    "dom",
+    "blur",
+    "transition"
+  ],
+  "author": "@realdennis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realdennis/Amaterasu/issues"
+  },
+  "homepage": "https://github.com/realdennis/Amaterasu#readme"
+}
