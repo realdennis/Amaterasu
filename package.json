@@ -1,6 +1,6 @@
 {
   "name": "@realdennis/amaterasu",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Make DOM blur gradully like user has Uchiha eyes.",
   "main": "src/index.js",
   "repository": {
