@@ -2,6 +2,8 @@
 
 [Demo](https://codepen.io/realdennis/pen/wNmPPB)
 
+![Amaterasu!](https://i.imgur.com/E8ndEHj.jpg)
+
 Make DOM blur gradully, like user has Uchiha eyes.
 
 ```javascript
